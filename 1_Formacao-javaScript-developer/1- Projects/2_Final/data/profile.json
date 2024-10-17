@@ -1,0 +1,82 @@
+{
+  "name": "Marcos Barros",
+  "photo": "/assets/img/my-photo.png",
+  "job": "Desenvolvedor Front-End na EPTI",
+  "location": "Recife - PE",
+  "phone": "(81) 98263-6445",
+  "email": "marcoswodbarros@outlook.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "/assets/img/icons/tools/node.png"
+      },
+      {
+        "name": "React",
+        "logo": "/assets/img/icons/tools/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "/assets/img/icons/tools/js.png"
+      },
+      {
+        "name": "Git",
+        "logo": "/assets/img/icons/tools/git.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "/assets/img/icons/tools/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "/assets/img/icons/tools/html.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Site para a Empresa: Adonai Estampas",
+      "url": "https://adonai-estampas.vercel.app/",
+      "github": true
+    },
+    {
+      "name": "Site para a Empresa: Meraki Comedoria Saudável",
+      "url": "https://merakicomidasaudavel.vercel.app/",
+      "github": true
+    },
+    {
+      "name": "Site para a Empresa: LFM Contabilidade e Assessoria",
+      "url": "https://lfm-contabilidade-e-assessoria.vercel.app/",
+      "github": true
+    },
+    {
+      "name": "Site para a Empresa: Aprender e Capacitar",
+      "url": "https://aprender-capacitar.vercel.app/",
+      "github": true
+    }
+    
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedor Front-End / EPTI",
+      "period": "2023 - até o momento",
+      "description": "Responsável por criar interfaces intuitivas e acessíveis que facilitam a navegação e melhoram a experiência dos usuários nos serviços de transporte."
+    },
+    {
+      "name": "Desenvolvedor Front-End / Freelancer",
+      "period": "2022 - até o momento",
+      "description": "Transformo ideias em interfaces funcionais e responsivas, adaptando soluções criativas às necessidades de cada projeto."
+    }
+  ]
+}
